@@ -6,10 +6,11 @@ import Navbar from './components/Navbar';
 
 import React from 'react';
 import {BrowserRouter as  Router, Switch,Route } from 'react-router-dom';
+//import all the side bar contents
 import Home from "./pages/Home"
-import Reports from './pages/Reports';
-
-
+import Template from './pages/template/Template';
+import Chilchila from './pages/chilchila/Chilchila';
+// connect all the routes as per the SidebarData
 class App extends React.Component{
   
   render()
@@ -21,7 +22,8 @@ class App extends React.Component{
         <Navbar/>
           <Switch>
             <Route path = "/parashar/" exact component={Home}/>
-            <Route path = "/parashar/reports" component={Reports}/>
+            <Route path = "/parashar/chilchila" component={Chilchila}/>
+            <Route path = "/parashar/template" component={Template}/>
           </Switch>
 
           

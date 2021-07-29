@@ -1,11 +1,13 @@
 import React from 'react'
 
+
 function Home() {
     return (
-        <div className="home">
+        <div className="reports">
             <h1>Home</h1>
-            
+        
         </div>
+        
     )
 }
 

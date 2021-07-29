@@ -13,33 +13,16 @@ export const SidebarData = [
         cName:"nav-text"
     },
     {
-        title:"Reports",
-        path:"/parashar/reports",
-        icon:<IoIcons.IoIosPaper/>,
-        cName:"nav-text"
-    },
-    {
-        title:"Products",
-        path:"/parashar/product",
-        icon:<FaIcons.FaCartPlus/>,
-        cName:"nav-text"
-    },
-    {
-        title:"Team",
-        path:"/team",
+        title:"Chilchila",
+        path:"/parashar/chilchila",
         icon:<IoIcons.IoMdPeople/>,
         cName:"nav-text"
     },
     {
-        title:"Messages",
-        path:"/parashar/messages",
-        icon:<FaIcons.FaEnvelopeOpenText/>,
+        title:"Template",
+        path:"/parashar/template",
+        icon:<IoIcons.IoIosPaper/>,
         cName:"nav-text"
     },
-    {
-        title:"Support",
-        path:"/parashar/support",
-        icon:<IoIcons.IoMdHelpCircle/>,
-        cName:"nav-text"
-    },
+    
 ]
