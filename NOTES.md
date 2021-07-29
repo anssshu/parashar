@@ -32,3 +32,20 @@ npm run deploy
 the entire project will be uploaded to github master branch
 and the build folder will be uploaded to the gh-pages branch and the site will be deployed as a static website
 
+For subsequent creation and edit of the project
+use git push and npm run deploy
+
+
+
+
+
+
+
+
+#REACTJS
+the app consists of components which are class or functions
+
+npm i react-router-dom
+npm i react-icons
+
+inside sidebar data add the data and use it inside the Navbar.js
