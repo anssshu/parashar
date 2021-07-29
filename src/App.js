@@ -20,8 +20,8 @@ class App extends React.Component{
         
         <Navbar/>
           <Switch>
-            <Route path = "/" exact component={Home}/>
-            <Route path = "/reports" component={Reports}/>
+            <Route path = "/parashar/" exact component={Home}/>
+            <Route path = "/parashar/reports" component={Reports}/>
           </Switch>
 
           

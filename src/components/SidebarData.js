@@ -8,19 +8,19 @@ import * as IoIcons from "react-icons/io"
 export const SidebarData = [
     {
         title:  "Home",
-        path:   "/",
+        path:   "/parashar/",
         icon: <AiIcons.AiFillHome/>,
         cName:"nav-text"
     },
     {
         title:"Reports",
-        path:"/reports",
+        path:"/parashar/reports",
         icon:<IoIcons.IoIosPaper/>,
         cName:"nav-text"
     },
     {
         title:"Products",
-        path:"/product",
+        path:"/parashar/product",
         icon:<FaIcons.FaCartPlus/>,
         cName:"nav-text"
     },
@@ -32,13 +32,13 @@ export const SidebarData = [
     },
     {
         title:"Messages",
-        path:"/messages",
+        path:"/parashar/messages",
         icon:<FaIcons.FaEnvelopeOpenText/>,
         cName:"nav-text"
     },
     {
         title:"Support",
-        path:"/support",
+        path:"/parashar/support",
         icon:<IoIcons.IoMdHelpCircle/>,
         cName:"nav-text"
     },
