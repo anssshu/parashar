@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/parashar/static/css/main.d5ffe017.chunk.css",
-    "main.js": "/parashar/static/js/main.fc27e248.chunk.js",
-    "main.js.map": "/parashar/static/js/main.fc27e248.chunk.js.map",
+    "main.js": "/parashar/static/js/main.32a4b3b1.chunk.js",
+    "main.js.map": "/parashar/static/js/main.32a4b3b1.chunk.js.map",
     "runtime-main.js": "/parashar/static/js/runtime-main.a43693fe.js",
     "runtime-main.js.map": "/parashar/static/js/runtime-main.a43693fe.js.map",
     "static/js/2.e98e8ea9.chunk.js": "/parashar/static/js/2.e98e8ea9.chunk.js",
@@ -11,13 +11,28 @@
     "static/css/main.d5ffe017.chunk.css.map": "/parashar/static/css/main.d5ffe017.chunk.css.map",
     "static/js/2.e98e8ea9.chunk.js.LICENSE.txt": "/parashar/static/js/2.e98e8ea9.chunk.js.LICENSE.txt",
     "static/media/baby.6a972c52.png": "/parashar/static/media/baby.6a972c52.png",
-    "static/media/page1.08fc52eb.png": "/parashar/static/media/page1.08fc52eb.png",
-    "static/media/page2.c45ed317.png": "/parashar/static/media/page2.c45ed317.png"
+    "static/media/page1.3df7fc75.jpg": "/parashar/static/media/page1.3df7fc75.jpg",
+    "static/media/page10.a0e46d75.jpg": "/parashar/static/media/page10.a0e46d75.jpg",
+    "static/media/page11.cf108db0.jpg": "/parashar/static/media/page11.cf108db0.jpg",
+    "static/media/page12.d84e9edd.jpg": "/parashar/static/media/page12.d84e9edd.jpg",
+    "static/media/page13.e3ee01da.jpg": "/parashar/static/media/page13.e3ee01da.jpg",
+    "static/media/page15.64abba8c.jpg": "/parashar/static/media/page15.64abba8c.jpg",
+    "static/media/page2.722572c3.jpg": "/parashar/static/media/page2.722572c3.jpg",
+    "static/media/page20.9677510f.jpg": "/parashar/static/media/page20.9677510f.jpg",
+    "static/media/page21.0f249055.jpg": "/parashar/static/media/page21.0f249055.jpg",
+    "static/media/page22.2e306bd9.jpg": "/parashar/static/media/page22.2e306bd9.jpg",
+    "static/media/page3.02e067c2.jpg": "/parashar/static/media/page3.02e067c2.jpg",
+    "static/media/page4.17977a58.jpg": "/parashar/static/media/page4.17977a58.jpg",
+    "static/media/page5.6dfb180f.jpg": "/parashar/static/media/page5.6dfb180f.jpg",
+    "static/media/page6.db172355.jpg": "/parashar/static/media/page6.db172355.jpg",
+    "static/media/page7.04833199.jpg": "/parashar/static/media/page7.04833199.jpg",
+    "static/media/page8.273a9658.jpg": "/parashar/static/media/page8.273a9658.jpg",
+    "static/media/page9.20fd66a9.jpg": "/parashar/static/media/page9.20fd66a9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a43693fe.js",
     "static/js/2.e98e8ea9.chunk.js",
     "static/css/main.d5ffe017.chunk.css",
-    "static/js/main.fc27e248.chunk.js"
+    "static/js/main.32a4b3b1.chunk.js"
   ]
 }
