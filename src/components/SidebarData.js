@@ -120,11 +120,6 @@ export const SidebarData = [
         icon:<IoIcons.IoMdPeople/>,
         cName:"nav-text"
     },
-    {
-        title:"Template",
-        path:"/parashar/template",
-        icon:<IoIcons.IoIosPaper/>,
-        cName:"nav-text"
-    },
+    
     
 ]

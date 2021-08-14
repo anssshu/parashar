@@ -25,6 +25,11 @@
 .nav-menu.active{
     left:0;
     transition: 350ms;
+    position: fixed;
+    width: 250px;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
 
 }
 .nav-text{

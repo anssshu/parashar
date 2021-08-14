@@ -8,7 +8,7 @@ import React from 'react';
 import {BrowserRouter as  Router, Switch,Route } from 'react-router-dom';
 //import all the side bar contents
 import Home from "./pages/Home"
-import Template from './pages/template/Template';
+
 import Chilchila from './pages/chilchila/Chilchila';
 import Shoshia from './pages/shoshia/Shoshia';
 import Karpa from './pages/karpa/Karpa';
