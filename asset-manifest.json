@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/parashar/static/css/main.d5ffe017.chunk.css",
-    "main.js": "/parashar/static/js/main.9714a8aa.chunk.js",
-    "main.js.map": "/parashar/static/js/main.9714a8aa.chunk.js.map",
+    "main.css": "/parashar/static/css/main.f1e62739.chunk.css",
+    "main.js": "/parashar/static/js/main.f7bf5280.chunk.js",
+    "main.js.map": "/parashar/static/js/main.f7bf5280.chunk.js.map",
     "runtime-main.js": "/parashar/static/js/runtime-main.a43693fe.js",
     "runtime-main.js.map": "/parashar/static/js/runtime-main.a43693fe.js.map",
-    "static/js/2.9dbf304e.chunk.js": "/parashar/static/js/2.9dbf304e.chunk.js",
-    "static/js/2.9dbf304e.chunk.js.map": "/parashar/static/js/2.9dbf304e.chunk.js.map",
+    "static/js/2.8decb4bb.chunk.js": "/parashar/static/js/2.8decb4bb.chunk.js",
+    "static/js/2.8decb4bb.chunk.js.map": "/parashar/static/js/2.8decb4bb.chunk.js.map",
     "index.html": "/parashar/index.html",
-    "static/css/main.d5ffe017.chunk.css.map": "/parashar/static/css/main.d5ffe017.chunk.css.map",
-    "static/js/2.9dbf304e.chunk.js.LICENSE.txt": "/parashar/static/js/2.9dbf304e.chunk.js.LICENSE.txt",
-    "static/media/baby.6a972c52.png": "/parashar/static/media/baby.6a972c52.png",
+    "static/css/main.f1e62739.chunk.css.map": "/parashar/static/css/main.f1e62739.chunk.css.map",
+    "static/js/2.8decb4bb.chunk.js.LICENSE.txt": "/parashar/static/js/2.8decb4bb.chunk.js.LICENSE.txt",
     "static/media/page1.07fb649f.jpg": "/parashar/static/media/page1.07fb649f.jpg",
     "static/media/page1.0aeac942.jpg": "/parashar/static/media/page1.0aeac942.jpg",
     "static/media/page1.297b0f0b.jpg": "/parashar/static/media/page1.297b0f0b.jpg",
@@ -80,8 +79,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a43693fe.js",
-    "static/js/2.9dbf304e.chunk.js",
-    "static/css/main.d5ffe017.chunk.css",
-    "static/js/main.9714a8aa.chunk.js"
+    "static/js/2.8decb4bb.chunk.js",
+    "static/css/main.f1e62739.chunk.css",
+    "static/js/main.f7bf5280.chunk.js"
   ]
 }
