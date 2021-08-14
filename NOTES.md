@@ -49,3 +49,19 @@ npm i react-router-dom
 npm i react-icons
 
 inside sidebar data add the data and use it inside the Navbar.js
+
+
+for adding a side scroller to the nav bar 
+the folloeing code was updated in navbar.css
+
+.nav-menu.active{
+    left:0;
+    transition: 350ms;
+    
+    position: fixed;
+    width: 250px;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+
+}
